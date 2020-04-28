@@ -1,0 +1,16 @@
+PODS:
+  - ElegantTableView (0.0.3)
+
+DEPENDENCIES:
+  - ElegantTableView
+
+SPEC REPOS:
+  trunk:
+    - ElegantTableView
+
+SPEC CHECKSUMS:
+  ElegantTableView: 95e37428e31235a9851acdc6fd0cde24231e9737
+
+PODFILE CHECKSUM: e5d5fecaf78a1facfc0036b7c7231eddc09f8f0a
+
+COCOAPODS: 1.9.1
